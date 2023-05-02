@@ -18,7 +18,7 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
 4. Enter the information in the fields:
     1. Which master and/or transactional data will be exchanged?: **Customer and O2C Process**
     2. To which business process does your integration scenario belong to?: **Order2Cash**
-    3. What is the planned business go-live date?: Pick relevant date from the drop-down. **Dec, 31, 2022**
+    3. What is the planned business go-live date?: Pick relevant date from the drop-down. **Dec, 31, 2023**
     4. What is the business criticality of this integration scenario?: **Medium**
 
     Select "Next Step"

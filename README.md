@@ -17,7 +17,7 @@ This session introduces you to newly released Integration Assessment capability 
 
 ## WalkThru Exercises
 
-While doing the exercises, please substitute 'XX' in the instructions with your group number. For example: If your group number is 22, substitute userxx with user70. 
+While doing the exercises, please substitute 'XX' in the instructions with your group number. For example: If your group number is 22, substitute userxx with user22. 
 
 When running through the exercises, you will be touching the following features:
 

@@ -13,7 +13,7 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
 <br><img src="/exercises/ex3/images/1.1_Ex3_Create_Business_Request.PNG" width=80% height=80%>
 
 3. Enter name of “Business Solution Request”: **Order2Cash_XX** where **XX** stands for your group number
-<br><img src="/exercises/ex3/images/1.2_Ex3_Name_Business_Request.PNG" width=40% height=40%>
+<br><img src="/exercises/ex3/images/1.2_Ex3_Name_Business_Request.PNG" width=40% height=40%> 
 
 4. Enter the information in the fields:
     1. Which master and/or transactional data will be exchanged?: **Customer and O2C Process**

@@ -31,7 +31,7 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
 7. Select on your scenario name which in the case of instructor is named **Order2Cash-1**
 <br><img src="/exercises/ex4/images/1.61_Ex4_Integration_Content_Select_Request.PNG" width=40% height=40%>
 
-8. The system will connect to API Business Hub to get the content
+8. The system will connect to SAP Business Accelerator Hub to get the content
 <br><img src="/exercises/ex4/images/1.62_Ex4_Integration_Content_Loading_API_Hub.PNG" width=40% height=40%>
 
 9. The content from SAP Business Accelerator Hub is displayed. Enter **Customer** in the search field. Select **Target Application**

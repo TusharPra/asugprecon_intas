@@ -34,7 +34,7 @@ Run through the following steps from the Integration Assesement Tool Landing Pag
 8. The system will connect to API Business Hub to get the content
 <br><img src="/exercises/ex4/images/1.62_Ex4_Integration_Content_Loading_API_Hub.PNG" width=40% height=40%>
 
-9. The content from API Business Hub is displayed. Enter **Customer** in the search field. Select **Target Application**
+9. The content from SAP Business Accelerator Hub is displayed. Enter **Customer** in the search field. Select **Target Application**
 <br><img src="/exercises/ex4/images/1.63_Ex4_Integration_Content_Enter_API_Request.PNG" width=80% height=80%>
 
 10. Select:
